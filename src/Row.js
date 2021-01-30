@@ -61,4 +61,4 @@ function Row({ title, fetchUrl, isLargeRow }) {
   );
 }
 
-export default Row;
+export default Row
